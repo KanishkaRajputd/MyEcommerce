@@ -1,7 +1,11 @@
 # MyEcommerce
 
 
-<p id="description">A simple ecommerce website of mine</p>
+<p id="description">A simple ecommerce website for men's and women's clothes.</p>
+
+<p>Snap-Shot</p>
+
+<img src="https://github.com/KanishkaRajputd/Kanishka-Portfolio/raw/main/src/assets/e-com.png"/>
 
 <h2>🚀 Demo</h2>
 
